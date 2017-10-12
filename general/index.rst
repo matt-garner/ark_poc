@@ -6,3 +6,5 @@ General
    :maxdepth: 2
 
    introduction_to_ark.rst
+   first_steps.rst
+   
