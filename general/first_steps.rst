@@ -10,16 +10,16 @@ For those who are lost at sea, and are trying to purchase some ARK to hold, stak
 
 Acquiring Bitcoin or Ethereum
 ---------------------------------------------------------------------
-TODO
+TODO: write guide
 
 Finding and Using an Exchange that trades ARK
 ---------------------------------------------------------------------
-TODO
+TODO: write guide
 
 Generating a Wallet and new ARK Address
 ---------------------------------------------------------------------
-TODO
+TODO: write guide
 
 Withdrawing ARK to your wallet
 ---------------------------------------------------------------------
-TODO
+TODO: write guide

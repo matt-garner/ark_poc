@@ -7,4 +7,4 @@ General
 
    introduction_to_ark.rst
    first_steps.rst
-   
+   blockchain.rst
