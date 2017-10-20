@@ -7,55 +7,55 @@ Staking ARK and selecting a Delegate
 --------------------------------------------------------------------------------
 Staking your ARK and voting for a Delegate will give you the benefit of receiving more ARK from newly forged blocks. To vote for a Delegate requires a desktop wallet and more than 1 ARK in your account. To begin, from within the wallet select the account that you wish to stake with.
 
-..  image:: _static/img/vote1.png
+..  image:: ../_static/img/vote1.png
     :alt: vote1
     :align: center
 
 Once at the transaction log menu, select the "Votes" tab to begin the voting process.
 
-..  image:: _static/img/vote2.png
+..  image:: ../_static/img/vote2.png
     :alt: vote2
     :align: center
 
 Select the button, "Add Delegate" to begin searching for or entering the name of your Delegate.
 
-..  image:: _static/img/vote3.png
+..  image:: ../_static/img/vote3.png
     :alt: vote3
     :align: center
 
 When the Add Delegate modal appears, you may use the box labelled "Active Delegates (forging)" (labelled 4a in the screenshot below) to select from the active 51 forging Delegates, or you may enter the name of your Delegate in the box labelled "Delegate name" (4b in the screenshot below). Once you have selected a Delegate, move to the next step. (NOTE: I've selected the top Delegate for this example, but feel free to browse the available Delegates to find one that you like)
 
-..  image:: _static/img/vote4.png
+..  image:: ../_static/img/vote4.png
     :alt: vote4
     :align: center
 
 With your Delegate now selected, click "Add Delegate" to begin confirming the process.
 
-..  image:: _static/img/vote5.png
+..  image:: ../_static/img/vote5.png
     :alt: vote5
     :align: center
 
 Now that your Delegate is in your Voting tab, click the "Vote" button.
 
-..  image:: _static/img/vote6.png
+..  image:: ../_static/img/vote6.png
     :alt: vote6
     :align: center
 
 Now you will be prompted to enter your 12 word passphrase into the password field (7a in the screenshot below) and once done you may click, "Next" (7b).
 
-..  image:: _static/img/vote7.png
+..  image:: ../_static/img/vote7.png
     :alt: vote7
     :align: center
 
 A confirmation box will appear to ask you if you are sure you wish to Vote, highlighting the 1 ARK fee for the vote. Selecting "Send 1 ARK Now!" will complete your vote.
 
-..  image:: _static/img/vote8.png
+..  image:: ../_static/img/vote8.png
     :alt: vote8
     :align: center
 
 Once you've voted, feel free to return to your transaction page to validate your vote has been recorded.
 
-..  image:: _static/img/vote9.png
+..  image:: ../_static/img/vote9.png
     :alt: vote9
     :align: center
 
@@ -65,37 +65,37 @@ Selecting a new Delegate is a process called, "Un-voting". Un-voting costs the s
 
 From your ARK transaction list, select the "Votes" tab.
 
-..  image:: _static/img/unvote1.png
+..  image:: ../_static/img/unvote1.png
     :alt: unvote1
     :align: center
 
 Beside your current Delegate, un-check the check box.
 
-..  image:: _static/img/unvote2.png
+..  image:: ../_static/img/unvote2.png
     :alt: unvote2
     :align: center
 
 After you have un-checked the box, click "Vote".
 
-..  image:: _static/img/unvote3.png
+..  image:: ../_static/img/unvote3.png
     :alt: unvote3
     :align: center
 
 You will be prompted to enter your 12 word passphrase into the passphrase field (marked 4a in the screenshot below). After entering your passphrase select, "Next" (4b).
 
-..  image:: _static/img/unvote4.png
+..  image:: ../_static/img/unvote4.png
     :alt: unvote4
     :align: center
 
 You will be asked to review the vote and the fee associated with it. Select "Send 1 ARK Now!" to complete the un-voting process.
 
-..  image:: _static/img/unvote5.png
+..  image:: ../_static/img/unvote5.png
     :alt: unvote5
     :align: center
 
 To validate, go back to your transaction list and verify that a new transaction has occurred.
 
-..  image:: _static/img/unvote6.png
+..  image:: ../_static/img/unvote6.png
     :alt: unvote6
     :align: center
 
